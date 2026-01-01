@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 _pycache_/
 *.pyc
 *.sqlite3
 venv/
 .vscode/
 .idea/
+=======
+_pycache_/
+*.pyc
+*.sqlite3
+venv/
+.vscode/
+.idea/
+>>>>>>> ac2a1847cffb872352eb67d7fe5b3b9844a47ad7
 .env
